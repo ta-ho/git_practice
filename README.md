@@ -1,6 +1,2 @@
-# 2
-# 1
-
-# 3
-# 4
-# 6
+- [ ] 깃허브 협업 마스터
+- [x] VadCLIP add other auxiliary losses: cos_sim_loss, MMD, coral loss
